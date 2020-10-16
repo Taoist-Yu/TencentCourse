@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{4C90A020-4968-7A8E-7007-EB985EBBBFD0}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TestProject",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
