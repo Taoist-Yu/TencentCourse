@@ -1,2 +1,5 @@
-暂时还在打包
-网盘链接晚点才能给出
+# HW1
+视频与APK已传到网盘
+
+链接：https://share.weiyun.com/xl9dqqIk 密码：8fpi78
+
